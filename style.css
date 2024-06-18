@@ -3,9 +3,22 @@
 }
 .title1
 {
+    margin: auto 0px auto auto;
+    padding: 20px;
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
     background-color: aqua;
+    color: white;
+    text-align: center;
 }
 
 div{
+    margin: auto;
     font-size: large;
+    border: 0.5px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+    padding: auto;
 }
